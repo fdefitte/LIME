@@ -1,0 +1,29 @@
+#navbar-header {
+	
+}
+#product_header {
+	width:100%;
+	text-align: center;
+	margin-top:50px;
+	color: white;
+	background-color:#009100;
+}
+
+#product_header h1 {
+	padding-top:40px;
+}
+
+#product_header p {
+	padding-bottom:40px;
+}
+
+
+#screenshots {
+	margin-top:50px;
+	color: black;
+	margin-bottom:50px;
+}
+
+.screenshot {
+	width: 500px;
+}
